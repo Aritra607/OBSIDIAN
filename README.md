@@ -5,11 +5,11 @@
 ![OLED](https://img.shields.io/badge/Display-SSD1306_OLED-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
 
-**SHODEN** is an intelligent, automated fan control system built on the NodeMCU ESP8266 platform. It continuously monitors ambient temperature and current consumption, drives a relay-controlled fan with hysteresis logic, and displays all live readings on a 0.96" OLED screen.
+**SHODEN** is an intelligent, automated Smart  Battery Management system built on the  ESP8266 platform. It continuously monitors ambient temperature and current consumption, drives a relay-controlled fan with hysteresis logic, and displays all live readings on a 0.96" OLED screen.
 
 ---
 
-![ESP8266 Smart Fan Controller Hardware](assets/hardware.jpg)
+![ESP8266 SmarT Battery Management system Hardware](assets/hardware.jpg)
 *Smart Fan Controller — NodeMCU ESP8266 with OLED, LM35, ACS712, and Relay Module*
 
 ---
